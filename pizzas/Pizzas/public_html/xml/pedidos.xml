@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<pedidos xmlns="https://www.w3schools.com"
-xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-xsi:schemaLocation="https://www.w3schools.com note.xsd">
+<!DOCTYPE pedidos SYSTEM "pedidos.dtd">
+<pedidos>
     <pedido>
         <nombre>Pepe</nombre>
-        <direccion>
+        <direccion municipio="Telde">
             <calle>José Sánchez Peñate</calle>
             <numero>S/N</numero>
         </direccion>
@@ -24,7 +23,7 @@ xsi:schemaLocation="https://www.w3schools.com note.xsd">
     </pedido>
     <pedido>
         <nombre>Juan</nombre>
-        <direccion>
+        <direccion municipio="LPGC">
             <calle>Buenaventura</calle>
             <numero>27</numero>
         </direccion>

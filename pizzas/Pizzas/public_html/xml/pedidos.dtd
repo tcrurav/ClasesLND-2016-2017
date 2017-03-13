@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT pedidos (pedido*)>
+<!ELEMENT pedido (nombre,direccion,pizza+)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT direccion (calle,numero)>
+<!ELEMENT calle (#PCDATA)>
+<!ELEMENT numero (#PCDATA)>
+<!ELEMENT pizza (ingredientes,nombre,tamano)>
+<!ELEMENT ingredientes (ingrediente+)>
+<!ELEMENT tamano (#PCDATA)>
+<!ELEMENT ingrediente (#PCDATA)>
+
+<!ATTLIST direccion municipio CDATA #REQUIRED>
