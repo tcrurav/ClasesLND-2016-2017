@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pedidos>
+    <pedido>
+        <nombre>Pepe</nombre>
+        <direccion>
+            <calle>José Sánchez Peñate</calle>
+            <numero>S/N</numero>
+        </direccion>
+        <pizza>
+            <ingredientes>
+                <ingrediente>
+                    chorizo
+                </ingrediente>
+                <ingrediente>
+                    pimiento
+                </ingrediente>
+            </ingredientes>
+            <nombre>Vegetariana</nombre>
+            <tamano>Mediana</tamano>
+        </pizza>
+    </pedido>
+    <pedido>
+        <nombre>Juan</nombre>
+        <direccion>
+            <calle>Buenaventura</calle>
+            <numero>27</numero>
+        </direccion>
+        <pizza>
+            <ingredientes>
+                <ingrediente>
+                    pimiento
+                </ingrediente>
+                <ingrediente>
+                    berenjenas
+                </ingrediente>
+            </ingredientes>
+            <nombre>4 estaciones</nombre>
+            <tamano>Familiar</tamano>
+        </pizza>
+    </pedido>
+</pedidos>
