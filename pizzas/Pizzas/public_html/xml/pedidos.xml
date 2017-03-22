@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 
-<pedidos xmlns="https://loquemedelagana.com"
-xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-xsi:schemaLocation="https://loquemedelagana.com pedidos.xsd">
+<pedidos>
     <pedido>
         <nombre>Pepe</nombre>
         <direccion>
@@ -12,12 +10,8 @@ xsi:schemaLocation="https://loquemedelagana.com pedidos.xsd">
         </direccion>
         <pizza>
             <ingredientes>
-                <ingrediente>
-                    chorizo
-                </ingrediente>
-                <ingrediente>
-                    pimiento
-                </ingrediente>
+                <ingrediente>chorizo</ingrediente>
+                <ingrediente>pimiento</ingrediente>
             </ingredientes>
             <nombre>Vegetariana</nombre>
             <tamano>Mediana</tamano>
@@ -31,12 +25,8 @@ xsi:schemaLocation="https://loquemedelagana.com pedidos.xsd">
         </direccion>
         <pizza>
             <ingredientes>
-                <ingrediente>
-                    pimiento
-                </ingrediente>
-                <ingrediente>
-                    berenjenas
-                </ingrediente>
+                <ingrediente>pimiento</ingrediente>
+                <ingrediente>berenjenas</ingrediente>
             </ingredientes>
             <nombre>4 estaciones</nombre>
             <tamano>Familiar</tamano>
