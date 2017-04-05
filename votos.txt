@@ -1,0 +1,73 @@
+Final
+1.) Jose Carlso, 13
+2.) Iru 15
+3.) Borja  26
+4.) Jose Juan  41
+5.) Alejandro Velázquez 33
+6.) Víctor 43
+7.) Ruyman 36
+8.) Juanma 12
+Urano:
+1.) Jose Carlso
+2.) Iru
+3.) Borja
+4.) Jose Juan
+5.) Alejandro Velázquez
+6.) Víctor
+7.) Ruyman
+Iru
+1.) Jose Carlso
+2.) Juanma
+3.) Borja
+4.) Ruyman
+5.) Víctor
+6.) Alejandro Velázquez
+7.) Jose Juan
+Victor
+1.) Jose Carlso
+2.) Juanma
+3.) Iru
+4.) Alejandro Velázquez
+5.) Borja
+6.) Ruyman
+7.) Jose Juan
+Ruyman
+1.) Juanma
+2.) Iru
+3.) Borja
+4.) Jose Carlos
+5.) Víctor
+6.) Alejandro Velázquez
+7.) Jose Juan
+Jose Carlos
+1.) Iru
+2.) Juanma
+3.) Alejandro Velázquez
+4.) Borja
+5.) Ruyman
+6.) Jose Juan
+7.) Víctor
+Borja
+1.) Iru
+2.) Juanma
+3.) Joseca
+4.) Ruyman
+5.) Jose Juan
+6.) Víctor
+7.) Alejandro Velázquez
+Jose Juan
+1.) Juanma
+2.) Joseca
+3.) Iru
+4.) Ruyman
+5.) Borja
+6.) Alejandro Velázquez
+7.) Víctor
+Alejandro Velázquez
+1.) Joseca
+2.) Juanma
+3.) Iru
+4.) Borja
+5.) JoseJuan
+6.) Ruyman
+7.) Víctor
