@@ -1,0 +1,10 @@
+<profesores>
+  <profesor>
+    <nombre>Tiburcio</nombre>
+    <alumno>Pepe</alumno>
+  </profesor>
+  <profesor>
+    <nombre>Juan Castro</nombre>
+    <alumno>Luis</alumno>
+  </profesor>
+</profesores>

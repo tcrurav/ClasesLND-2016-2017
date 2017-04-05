@@ -1,0 +1,22 @@
+<alumnos>
+  <alumno>
+    <nombre>Pepe</nombre>
+    <edad>21</edad>
+    <dni>11111111h</dni>
+  </alumno>
+  <alumno>
+    <nombre>Juan</nombre>
+    <edad>22</edad>
+    <dni>22222222h</dni>
+  </alumno>
+  <alumno>
+    <nombre>luis</nombre>
+    <edad>23</edad>
+    <dni>44444444h</dni>
+  </alumno>
+  <alumno>
+    <nombre>Roberto</nombre>
+    <edad>24</edad>
+    <dni>33333333h</dni>
+  </alumno>
+</alumnos>
